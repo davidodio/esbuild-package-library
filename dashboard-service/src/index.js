@@ -2,7 +2,7 @@ import React from 'react'
 import reactDom from 'react-dom'
 import { Button, WithState } from '@davidodio/ui-components'
 
-const crash = false
+const crash = true
 
 const NoCrash = () => (
 	<div>
